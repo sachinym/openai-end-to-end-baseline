@@ -1,5 +1,7 @@
 # Lab 02: Deploying to Azure Machine Learning Endpoints and Publishing Web Applications
 
+## Estimated Duration: 120 Minutes
+
 ## Lab scenario
 In this lab, you will walk through the process of deploying a machine learning model to an Azure Machine Learning managed online endpoint and publishing a front-end web application to interact with the deployed model. This hands-on experience covers key aspects of the deployment pipeline, including creating and configuring resources on Azure, uploading necessary files, and setting up environment variables.
 
@@ -7,8 +9,6 @@ In this lab, you will walk through the process of deploying a machine learning m
 In this lab, you will perform the following:
 - Task 1: Deploy to Azure Machine Learning managed online endpoint
 - Task 2: Publish the Chat front-end web app
-
-## Estimated timing:80 minutes
 
 ### Task 1: Deploy to Azure Machine Learning managed online endpoint
 

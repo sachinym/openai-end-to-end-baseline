@@ -1,7 +1,8 @@
 # Enterprise-Grade Chat Solutions with Azure Machine Learning and OpenAI
 
-### Overall Estimated Duration: 5 Hours
-### Overview
+### Overall Estimated Duration: 8 Hours
+
+## Overview
 
 This hands-on lab series provides a comprehensive workflow for utilizing Azure OpenAI Service and Azure App Service. Participants will first create, test, and deploy a prompt flow, ensuring its functionality through runtime testing. The lab then guides users in cloning and enhancing the prompt flow before deploying it to an Azure Machine Learning managed online endpoint. Following this, participants will publish a Chat front-end web application and deploy the flow to Azure App Service. Finally, they will build and push a container image for the chat flow, and host it on Azure App Service to enable scalable, web-based interactions.
 
@@ -23,43 +24,49 @@ The objective of these labs is to guide participants through creating, deploying
 
 The labs utilize the Azure OpenAI Service API for creating and testing prompt flows, Azure Machine Learning for deploying and managing online endpoints, and Azure App Service for hosting the chat flow web app and container image. Resources include Azure CLI or Azure Portal for deployment and management, and containerization tools for building and pushing images.
 
+## Architecture Diagram
+
    ![Access Your VM and Lab Guide](../media/acr_dia.png)
+
+## Getting Started with the Lab
  
+Welcome to your Enterprise-Grade Chat Solutions with Azure Machine Learning and OpenAI workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+
 ## Accessing Your Lab Environment
  
-1. Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
+Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
    ![Access Your VM and Lab Guide](../media/labguide-1.png)
 
- ### Virtual Machine & Lab Guide
+### Virtual Machine & Lab Guide
  
    Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
  
 ## Exploring Your Lab Resources
  
-1. To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
+To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
  
    ![Explore Lab Resources](../media/env-1.png)
  
 ## Utilizing the Split Window Feature
  
- 1. For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.<br>
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.<br>
     
-    ![Use the Split Window Feature](../media/spl.png)
+   ![Use the Split Window Feature](../media/nleg4.png)
  
 ## Managing Your Virtual Machine
  
- 1. Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. <br>
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. <br>
  
-    ![Manage Your Virtual Machine](../media/res.png)
+   ![Manage Your Virtual Machine](../media/resources-vm-manage.png)
 
-## **Lab Duration Extension**
+## Lab Duration Extension
 
 1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
 
    ![Manage Your Virtual Machine](../media/gext.png)
 
->**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
+   >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
 
 2. Click **OK** to extend your lab duration.
  
@@ -87,12 +94,24 @@ The labs utilize the Azure OpenAI Service API for creating and testing prompt fl
  
       ![Enter Your Password](../media/sc900-image-2.png)
  
-4. If prompted to stay signed in, you can click "No."
+4. If you see the pop-up **Stay Signed in?**, select **No**.
+
+1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+
+5. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **Cancel** to skip the tour.
  
-5. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
- 
-6. Click "Next" from the bottom right corner to embark on your Lab journey!<br>
- 
+Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+
+## Support Contact
+
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
+
+Learner Support Contacts:
+- Email Support: cloudlabs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
+
+Now, click on Next from the lower right corner to move on to the next page.
+
    ![Start Your Azure Journey](../media/sc900-image(3).png)
- 
-<br>Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+
+### Happy Learning!!
